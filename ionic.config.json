@@ -1,0 +1,9 @@
+{
+  "name": "phaser-boilerplate",
+  "app_id": "",
+  "v2": true,
+  "typescript": true,
+  "config": {
+    "ionic_webpack": "./config/webpack.config.json"
+  }
+}
